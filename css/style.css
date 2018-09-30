@@ -10,6 +10,18 @@ body{
   background-position: center;
 
 }
+h3{
+  font-family: 'Bungee Shade', cursive;
+  /* background-color: #A1C8CC;
+  opacity: .6;
+  font-size: 60px;
+  width:900px; */
+  color: #ffff;
+  margin: auto;
+}
+h2{
+  font-family: 'Faster One', cursive;
+}
 /*  ***************************************************************************************************/
 #words{
   margin: auto;
