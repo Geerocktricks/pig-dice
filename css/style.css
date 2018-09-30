@@ -10,6 +10,10 @@ body{
   background-position: center;
 
 }
+/*  ***************************************************************************************************/
+#words{
+  margin: auto;
+}
 /* *************************************playFields************************************************** */
 .first, .second{
   background-color: #A1C8CC  ;
@@ -24,7 +28,8 @@ body{
 }
 .first:hover, .second:hover{
   background-color: #A7B9BB;
-  transform: scale(1.1)
-
-
+  transform: scale(1.1);
+}
+button{
+  box-shadow: 0 1px 0 1px rgba(0,0,0,.5);
 }
