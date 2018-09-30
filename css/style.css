@@ -10,3 +10,21 @@ body{
   background-position: center;
 
 }
+/* *************************************playFields************************************************** */
+.first, .second{
+  background-color: #A1C8CC  ;
+  margin: 30px;
+  opacity: .6;
+  text-align: center;
+  box-shadow: 0 1px 0 1px rgba(0,0,0,.5);
+  transition: transform 1s ease-in-out;
+}
+.first{
+  margin-left: 70px;
+}
+.first:hover, .second:hover{
+  background-color: #A7B9BB;
+  transform: scale(1.1)
+
+
+}
